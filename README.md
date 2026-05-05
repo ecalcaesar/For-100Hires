@@ -34,7 +34,7 @@ This repository documents the first step of my 100Hires portfolio project: setti
 
 4. **Created a GitHub account and public repository**
    - Signed up at [github.com](https://github.com/)
-   - Created a new public repository named `100hires-portfolio`
+   - Created a new public repository named `For-100Hires`
 
 5. **Opened the repository in Cursor**
    - Cloned the repository locally using the terminal
